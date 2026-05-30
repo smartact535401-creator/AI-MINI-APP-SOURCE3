@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "Gemini API · .env · .gitignore 의 첫 만남. 다섯 가지 AI 미니앱 중 하나를 골라 만들어보세요.",
   verification: {
     other: {
-      "naver-site-verification": "8adec3048b8f3d14514870bc4f333bf1d8c78500",
+      "naver-site-verification": "687892dc2e1167197cf78ee4914ca5d7891953f3",
     },
   },
 };
