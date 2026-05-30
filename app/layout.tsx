@@ -14,6 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" className="h-full antialiased">
+      <head>
+        <meta name="naver-site-verification" content="8adec3048b8f3d14514870bc4f333bf1d8c78500" />
+      </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
